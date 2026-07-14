@@ -18,6 +18,23 @@ Performing optical measurements at cryogenic temperatures introduces severe envi
 
 **Our Solution**: An integrative thermo-mechanical balance. By combining partial vacuum pumping with continuous dry Nitrogen purging, we successfully eliminated condensation and mitigated optical noise, allowing reliable extraction of optical constants down to -100°C.
 
+## Equipment and Setup Checklist
+The following equipment and tools were used to connect and operate the ellipsometer measurement system:
+- **Linkam stage** (תא לינקאם)
+- **Samples** (דגמים)
+- **2 Nitrogen tanks** (2 מיכלי חנקן)
+- **Gloves** (כפפות)
+- **Tweezers** (פינצטות)
+- **Scissors** (מספריים)
+- **Kapton tape** (קפטון טייפ)
+- **Controllers** (בקרים)
+- **Clean wipes** (בדים נקיים)
+- **Cables** (כבלים)
+- **2 hoses for connecting nitrogen and vacuum** (2 צינורות לחיבור לחנקן וואקום)
+- **Closing adapter for ellipsometer** (מתאם סגירה לאליפסומטר)
+- **Laptop plus charger for temperature control** (לפטופ פלוס מטען לשליטה בטמפ)
+- **Clamp** (קלמפה)
+
 ## Key Results & Figures
 
 ### Energy Gap Simulation vs. Experimental Data
