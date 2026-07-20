@@ -83,6 +83,12 @@ After calibrating the system on an n-GaAs reference, we applied our pipeline to 
 ### 6. `Articles` & `Books And Guides`
 Contains the project report, literature review, instrument guides (Linkam THMS600, J.A. Woollam WVASE32), and reference papers used during the research.
 
+### 7. `final project results files`
+Contains the experimental data and results organized by measurement setup and sample type.
+- **`GaAs measurments/`**: Raw results and analysis for different cooling setups (cooling only, nitrogen flow, vacuum pumping, nitrogen + vacuum).
+- **`GaAs results comparison/`**: Contains comparison scripts and `.mat` data files aggregating results across the different setups.
+- **`pec/`**: Contains analysis and raw data for the Photoelectrochemical (PEC) cell models.
+
 ## How to Run the Code
 
 The analysis and simulations are built entirely in **MATLAB**. 
